@@ -1,0 +1,36 @@
+/* Hero.css */
+.hero {
+    background-image: url('https://source.unsplash.com/1600x900/?shopping');
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+    height: 81.8vh;
+  }
+  
+  .title {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .subtitle {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  .btn {
+    background-color: #ff6a00;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #e65200;
+  }
+  
